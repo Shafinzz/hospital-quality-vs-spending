@@ -29,7 +29,7 @@ A data analytics project joining two real CMS (Medicare) datasets covering 5,400
 ## Repository Structure
 
 ```
-project-05-healthcare-hospital-quality/
+hospital-quality-vs-spending/
 ├── data/                                raw CMS CSVs and the cleaned, joined export used by Power BI
 ├── notebooks/                           hospital_quality_vs_spending.ipynb — full narrated analysis
 ├── images/                              exported chart images (used in this README)
@@ -53,7 +53,7 @@ A full walkthrough from scratch, assuming nothing is installed yet.
    - Go to [github.com/Shafinzz/hospital-quality-vs-spending](https://github.com/Shafinzz/hospital-quality-vs-spending), click the green **"Code"** button → **"Download ZIP"** → unzip it somewhere on your computer, or
    - If you have Git installed: `git clone https://github.com/Shafinzz/hospital-quality-vs-spending.git`
 
-**5. Open the project folder in VS Code.** File → Open Folder → select the unzipped/cloned `project-05-healthcare-hospital-quality` folder.
+**5. Open the project folder in VS Code.** File → Open Folder → select the unzipped/cloned `hospital-quality-vs-spending` folder.
 
 **6. Open a terminal inside VS Code.** Terminal menu → New Terminal.
 
